@@ -1,6 +1,6 @@
 # Bioscience Research - Neuron Groups
 
-Author: Sarvesh Naik
+
 
 ## Introduction
 
@@ -84,3 +84,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
     Thanks to the authors of the datasets used in this project.
     Special thanks to the Python and data analysis communities for their valuable resources and libraries.
+
+## Author 
+
+- **Sarvesh Sairam Naik**
