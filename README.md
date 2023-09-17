@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This project explores the analysis and comparison of neuron groups using data programming with Python. The dataset consists of morphological measurements for different neuron groups, and we aim to investigate various aspects such as data exploration, statistical analysis, predictive modeling, and clustering.
+This project explores the analysis and comparison of neuron groups using Python. The dataset consists of morphological measurements for different neuron groups, and we aim to investigate various aspects with help of  data exploration, statistical analysis, predictive modeling, and clustering.
 
 ## Getting Started
 
