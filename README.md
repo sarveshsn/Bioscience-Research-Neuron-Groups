@@ -88,6 +88,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
     Thanks to the authors of the datasets used in this project.
     Special thanks to the Python and data analysis communities for their valuable resources and libraries.
 
-## Author 
+## License
+This project is open-source and available under the [MIT License](LICENSE).
 
-- **Sarvesh Sairam Naik**
+---
+
+**Author:** Sarvesh Sairam Naik  
+**GitHub Repository:** [GitHub Link](https://github.com/sarveshsn)
